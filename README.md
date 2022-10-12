@@ -1,4 +1,4 @@
-# Consolas
+# Consolas - visually shows how sorting algorithms are working inside.
 
 for help and usage
 ```
@@ -12,9 +12,7 @@ its ok to
 ```
 dotnet run
 ```
-
-visually shows how sorting algorithms are working inside.
-
+PS:
 I know heapsort iteration count is nonsense but it's not the point.
 
 for better performance, you can run it as release runs
